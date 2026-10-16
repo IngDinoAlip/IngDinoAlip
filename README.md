@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Alisson Navarro — Ingeniera de Sistemas e Ingeniera Mecatrónica" width="100%"/>
+<img src="assets/banner.svg" alt="Alisson Dayana Navarro Rodríguez — Ingeniera de Sistemas e Ingeniera Mecatrónica" width="100%"/>
 
 <a href="https://adnr.engineer"><img src="https://img.shields.io/badge/Portafolio-adnr.engineer-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/></a>
-<a href="https://www.linkedin.com/in/alisson-dayana-navarro-rodriguez-7184b5261/"><img src="https://img.shields.io/badge/LinkedIn-Alisson%20Navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/alisson-dayana-navarro-rodriguez-7184b5261/"><img src="https://img.shields.io/badge/LinkedIn-Alisson%20Dayana%20Navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:alisson.navarrorodriguez@gmail.com"><img src="https://img.shields.io/badge/Correo-contacto-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/></a>
 
 </div>
